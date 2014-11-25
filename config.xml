@@ -19,7 +19,7 @@
 	<!-- No curso ele diz que a feature device (linha abaixo) é mandatória mas 
 	     no config.xml de exemplo que retirei do site não o tinha. 
 		 Fui buscá-lo ao link features em http://docs.build.phonegap.com/en_US/configuring_features.md.html#Features -->
-	<feature name="http://api.phonegap.com/1.0/device" />
+	<!--<feature name="http://api.phonegap.com/1.0/device" />-->
 	
     <!--
         If you do not want any permissions to be added to your app, add the
